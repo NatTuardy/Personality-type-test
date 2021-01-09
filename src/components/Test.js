@@ -24,7 +24,7 @@ function Test() {
     ]
 const [index, setIndex] = useState(initialState.index)
 const [state1, setstate1] = useState(answers[index])
-   const [counterD, setCounterD] = useState(CounterState.d)
+//    const [counterD, setCounterD] = useState(CounterState.d)
    const [counter, setCounter] = useState(CounterState)
 
 const onCounter = (name)=> {
@@ -40,14 +40,14 @@ const onChooseOld = (key) => {
 console.log('key111', key)
     switch (key) {
         case 'd':
-            let d= counterD +1;
+            // let d= counterD +1;
 
             // setCounterD(counterD+1);
             //setCounter(prev => ({d:d}))
             // ++d ;
             setCounter(prev => ({...prev, d : counter.d+1 }))
             //onCounter('d')
-            console.log('counter.d', counterD)
+            // console.log('counter.d', counterD)
             console.log('d',d)
             break;
         case 'i':
@@ -76,6 +76,8 @@ console.log('key111', key)
           console.log('answers[index]1', answers[index])
       }
     }
+
+    
       const onChoose = (key) => {
         console.log('key111', key)
             switch (key) {
@@ -93,7 +95,7 @@ console.log('key111', key)
 console.log('key0000', key)
 console.log('index0', index)
     console.log('answers[index]0', answers[index])
-if(answers.length -1 > index ) {
+if(answers.length  > index ) {
     setIndex(index +1)
     setstate1(answers[index +1])  
     console.log('index1', index)
@@ -103,6 +105,7 @@ if(answers.length -1 > index ) {
 //    console.log('the end')
 // }
 }
+
 
 const result =()=> {
     console.log('counter', counter)
@@ -129,7 +132,7 @@ let test = state1.map((item, i) => {
     return (
         <>
         
-      {answers.length -1 === index? result() : test}
+      {index === answers.length -1? result(): test}
 
         
        
