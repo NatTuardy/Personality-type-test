@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  /* background-color: black; */
+  width: 360px;
+  margin: 0 auto;
 
 }
 
@@ -48,6 +49,22 @@
   display: flex;
   flex-direction: column;
 }
+
+@media (min-width: 768px) {
+  .App {
+    width: 750px;
+  }
+
+}
+
+
+@media (min-width: 1024px) {
+  .App {
+    width: 1024px;
+  }
+
+}
+
 
 @keyframes App-logo-spin {
   from {

@@ -1,20 +1,7 @@
 
-const result =()=> {
-    console.log('counter', counter)
-    return (
-        <>
-        <p> D = {counter.d}</p>
-        <p> I = {counter.i}</p>
-        <p> S = {counter.s}</p>
-        <p> C = {counter.c}</p>
-        {console.log('counter', counter)}
-        </>
-    )
-}
-
-const answers = [
+  export const answers = [
     [ {key:"c",value: 'Сдержаный'}, {key:"d", value: 'Сильный'}, {key: "s", value: 'Заботливый'}, {key:"i", value: 'Экспрессивный'}],
-    [ {key:"d",value: 'Первопроходец'}, {key:"c", value: 'Корректный'}, {key: "i", value: 'Восторженный'}, {key:"s", value: 'Удовлетворенный'}],
+    [ {key:"d",value: 'Первопроходец'}, {key:"c", value: 'Правильный'}, {key: "i", value: 'Восторженный'}, {key:"s", value: 'Сговорчивый'}],
     [ {key:"s",value: 'Старательный'}, {key:"i", value: 'Воодушевленный'}, {key: "d", value: 'Смелый'}, {key:"c", value: 'Точный'}],
     [ {key:"d",value: 'Спорщик'}, {key:"c", value: 'Сомневающийся'}, {key: "s", value: 'Нерешительный'}, {key:"i", value: 'Непредсказуемый'}],
     [ {key:"c",value: 'Уважительный'}, {key:"i", value: 'Общительный'}, {key: "s", value: 'Терпеливый'}, {key:"d", value: 'Отважный'}],

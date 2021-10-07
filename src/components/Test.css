@@ -1,3 +1,15 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+  color: #f9e79f
+}
+
 .double-border-button {
     text-decoration: none;
     display: inline-block;
@@ -10,6 +22,7 @@
     font-family: 'Comfortaa', cursive;
     transition: .4s;
     background: #1b2631;
+    /* width: 310px; */
   }
   .double-border-button:after {
     content: "";
@@ -24,14 +37,24 @@
     border: 2px solid rgba(0, 0, 0, 0);
     transition: .4s;
   }
-  .double-border-button:hover:after {
+  /* .double-border-button:hover:after {
     border-color: #f1c40f;
     border-width: 3px;
     width: calc(100% - 10px);
     height: calc(100% + 10px);
-  }
+  } */
 
   .page {
     color: #f1c40f; 
     font-family: 'Comfortaa', cursive;
+  }
+
+  @media (min-width: 1024px) {
+    .double-border-button:hover:after {
+      border-color: #f1c40f;
+      border-width: 3px;
+      width: calc(100% - 10px);
+      height: calc(100% + 10px);
+    }
+  
   }
