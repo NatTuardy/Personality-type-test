@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Personality-type-test/static/css/main.13de8aea.chunk.css",
-    "main.js": "/Personality-type-test/static/js/main.146749aa.chunk.js",
-    "main.js.map": "/Personality-type-test/static/js/main.146749aa.chunk.js.map",
-    "runtime-main.js": "/Personality-type-test/static/js/runtime-main.d948b731.js",
-    "runtime-main.js.map": "/Personality-type-test/static/js/runtime-main.d948b731.js.map",
-    "static/js/2.240c3eda.chunk.js": "/Personality-type-test/static/js/2.240c3eda.chunk.js",
-    "static/js/2.240c3eda.chunk.js.map": "/Personality-type-test/static/js/2.240c3eda.chunk.js.map",
-    "static/js/3.66d52ee0.chunk.js": "/Personality-type-test/static/js/3.66d52ee0.chunk.js",
-    "static/js/3.66d52ee0.chunk.js.map": "/Personality-type-test/static/js/3.66d52ee0.chunk.js.map",
+    "main.css": "/Personality-type-test/static/css/main.9d108df0.chunk.css",
+    "main.js": "/Personality-type-test/static/js/main.83aaa361.chunk.js",
+    "main.js.map": "/Personality-type-test/static/js/main.83aaa361.chunk.js.map",
+    "runtime-main.js": "/Personality-type-test/static/js/runtime-main.3a5edb9b.js",
+    "runtime-main.js.map": "/Personality-type-test/static/js/runtime-main.3a5edb9b.js.map",
+    "static/js/2.a18f209b.chunk.js": "/Personality-type-test/static/js/2.a18f209b.chunk.js",
+    "static/js/2.a18f209b.chunk.js.map": "/Personality-type-test/static/js/2.a18f209b.chunk.js.map",
+    "static/js/3.c26a7c32.chunk.js": "/Personality-type-test/static/js/3.c26a7c32.chunk.js",
+    "static/js/3.c26a7c32.chunk.js.map": "/Personality-type-test/static/js/3.c26a7c32.chunk.js.map",
     "index.html": "/Personality-type-test/index.html",
-    "static/css/main.13de8aea.chunk.css.map": "/Personality-type-test/static/css/main.13de8aea.chunk.css.map",
-    "static/js/2.240c3eda.chunk.js.LICENSE.txt": "/Personality-type-test/static/js/2.240c3eda.chunk.js.LICENSE.txt"
+    "static/css/main.9d108df0.chunk.css.map": "/Personality-type-test/static/css/main.9d108df0.chunk.css.map",
+    "static/js/2.a18f209b.chunk.js.LICENSE.txt": "/Personality-type-test/static/js/2.a18f209b.chunk.js.LICENSE.txt",
+    "static/media/typePage.css": "/Personality-type-test/static/media/d2.8b13e294.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d948b731.js",
-    "static/js/2.240c3eda.chunk.js",
-    "static/css/main.13de8aea.chunk.css",
-    "static/js/main.146749aa.chunk.js"
+    "static/js/runtime-main.3a5edb9b.js",
+    "static/js/2.a18f209b.chunk.js",
+    "static/css/main.9d108df0.chunk.css",
+    "static/js/main.83aaa361.chunk.js"
   ]
 }
