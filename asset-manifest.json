@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Personality-type-test/static/css/main.9d108df0.chunk.css",
-    "main.js": "/Personality-type-test/static/js/main.83aaa361.chunk.js",
-    "main.js.map": "/Personality-type-test/static/js/main.83aaa361.chunk.js.map",
+    "main.css": "/Personality-type-test/static/css/main.d2510f1d.chunk.css",
+    "main.js": "/Personality-type-test/static/js/main.8b8651dc.chunk.js",
+    "main.js.map": "/Personality-type-test/static/js/main.8b8651dc.chunk.js.map",
     "runtime-main.js": "/Personality-type-test/static/js/runtime-main.3a5edb9b.js",
     "runtime-main.js.map": "/Personality-type-test/static/js/runtime-main.3a5edb9b.js.map",
     "static/js/2.a18f209b.chunk.js": "/Personality-type-test/static/js/2.a18f209b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.c26a7c32.chunk.js": "/Personality-type-test/static/js/3.c26a7c32.chunk.js",
     "static/js/3.c26a7c32.chunk.js.map": "/Personality-type-test/static/js/3.c26a7c32.chunk.js.map",
     "index.html": "/Personality-type-test/index.html",
-    "static/css/main.9d108df0.chunk.css.map": "/Personality-type-test/static/css/main.9d108df0.chunk.css.map",
+    "static/css/main.d2510f1d.chunk.css.map": "/Personality-type-test/static/css/main.d2510f1d.chunk.css.map",
     "static/js/2.a18f209b.chunk.js.LICENSE.txt": "/Personality-type-test/static/js/2.a18f209b.chunk.js.LICENSE.txt",
-    "static/media/typePage.css": "/Personality-type-test/static/media/d2.8b13e294.jpg"
+    "static/media/typePage.css": "/Personality-type-test/static/media/d2.2dde41ab.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3a5edb9b.js",
     "static/js/2.a18f209b.chunk.js",
-    "static/css/main.9d108df0.chunk.css",
-    "static/js/main.83aaa361.chunk.js"
+    "static/css/main.d2510f1d.chunk.css",
+    "static/js/main.8b8651dc.chunk.js"
   ]
 }
